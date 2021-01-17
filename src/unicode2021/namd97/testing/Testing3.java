@@ -22,4 +22,16 @@ public class Testing3 {
 
 		assertEquals("FredBloggs", solution.getRecipient("Hey @Joe_Bloggs what time are we meeting @FredBloggs?", 2));
 	}
+
+	/**
+	 * This edgecase is when an email is input
+	 * @author Duncan Nam
+	 */
+	@Test
+	public void edgecase1() {
+		Challenge3 solution = new Challenge3();
+
+		assertEquals("FredBloggs",
+				solution.getRecipient("@Joe_Bloggs, send me an email at fred@bloggs.co.uk. I'm @FredBloggs", 2));
+	}
 }
