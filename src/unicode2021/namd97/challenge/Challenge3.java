@@ -8,7 +8,7 @@ package unicode2021.namd97.challenge;
  *
  */
 public class Challenge3 {
-    public static String getRecipient(String message, int position) {
-        // TODO Your code goes here
-    }
+	public static String getRecipient(String message, int position) {
+		// TODO Your code goes here
+	}
 }
