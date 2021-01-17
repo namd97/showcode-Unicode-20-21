@@ -3,10 +3,6 @@
  */
 package unicode2021.namd97.challenge;
 
-/**
- * @author Duncan Nam
- *
- */
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 import java.util.*;
@@ -21,6 +17,8 @@ import java.util.*;
  * last back-up to it's correct state? We've populated some unit tests with the
  * data for you. Just something to be aware of - the original data is GCAT
  * sequences - only containing letters: no numbers or other characters.
+ * 
+ * @author Duncan Nam
  */
 public class Challenge4 {
 	/**
