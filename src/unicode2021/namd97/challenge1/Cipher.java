@@ -1,20 +1,12 @@
 /**
- * Challenge1.java
+ * Cipher.java
  */
-package unicode2021.namd97.challenge;
-
-// 100% Score
+package unicode2021.namd97.challenge1;
 
 /**
- * PROMPT: It's 2045. Halliday is gone. Every living soul in the OASIS is
- * looking for the Easter egg - the key to Halliday's fortune. We've found
- * something, a few snippets of deciphered text. Is this enough for you to break
- * his cipher?
- * 
  * @author Duncan Nam
- *
  */
-public class Challenge1 {
+public class Cipher {
 	/**
 	 * This string carries all capital letters A to Z
 	 */

@@ -1,24 +1,24 @@
 /**
  * 
  */
-package unicode2021.namd97.testing;
+package unicode2021.namd97.challenge1;
 
 import org.junit.*;
-import unicode2021.namd97.challenge.Challenge1;
+
 import static org.junit.Assert.*;
 
-public class Testing1 {
+public class Tests {
 
 	@Test
 	public void test1() {
-		Challenge1 solution = new Challenge1();
+		Cipher solution = new Cipher();
 
 		assertEquals("Pelfgny Xrl", solution.halliday("Crystal Key"));
 	}
 
 	@Test
 	public void test2() {
-		Challenge1 solution = new Challenge1();
+		Cipher solution = new Cipher();
 
 		assertEquals("Beo bs Bfhibk", solution.halliday("Orb of Osuvox"));
 	}

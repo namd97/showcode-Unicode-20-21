@@ -1,13 +1,13 @@
 /**
  * 
  */
-package unicode2021.namd97.challenge;
+package unicode2021.namd97.challenge2;
 
 /**
  * @author Duncan Nam
  *
  */
-public class Challenge2 {
+public class Solution {
 	public static int devvie(String input) {
 		// TODO Your code goes here
 	}

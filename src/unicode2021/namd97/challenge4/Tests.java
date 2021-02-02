@@ -1,24 +1,24 @@
 /**
  * 
  */
-package unicode2021.namd97.testing;
+package unicode2021.namd97.challenge4;
 
 import org.junit.*;
-import unicode2021.namd97.challenge.Challenge4;
+
 import static org.junit.Assert.*;
 
-public class Testing4 {
+public class Tests {
 
 	@Test
 	public void test1() {
-		Challenge4 solution = new Challenge4();
+		AttackCleanup solution = new AttackCleanup();
 
 		assertEquals("atgcgcatgcgca", solution.restoreData("zgtxtxzgtxtxz"));
 	}
 
 	@Test
 	public void test2() {
-		Challenge4 solution = new Challenge4();
+		AttackCleanup solution = new AttackCleanup();
 
 		assertEquals("tgctgcataaattttttttggggcatttaaa", solution.restoreData("gtxgtxzg3z8g4txz3g3z"));
 	}
@@ -30,7 +30,7 @@ public class Testing4 {
 	 */
 	@Test
 	public void edgecase1() {
-		Challenge4 solution = new Challenge4();
+		AttackCleanup solution = new AttackCleanup();
 		assertEquals("tttttttttttttgggggcat", solution.restoreData("13g5txzg"));
 	}
 
@@ -40,7 +40,7 @@ public class Testing4 {
 	 */
 	@Test
 	public void edgecase2() {
-		Challenge4 solution = new Challenge4();
+		AttackCleanup solution = new AttackCleanup();
 		assertEquals("atgcgcat", solution.restoreData("zgt0gxtxzg"));
 	}
 
@@ -50,7 +50,7 @@ public class Testing4 {
 	 */
 	@Test
 	public void edgecase3() {
-		Challenge4 solution = new Challenge4();
+		AttackCleanup solution = new AttackCleanup();
 		assertEquals("atgcgcat", solution.restoreData("zgtxtxzg5"));
 	}
 }
