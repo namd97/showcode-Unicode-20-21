@@ -8,7 +8,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 :pencil: | Challenge Name     | Dates Open          | Completed?         | Score | Completion Time
 ---------|--------------------|---------------------|--------------------|-------|------------------
 1        | [Ready Player X][1]| Nov 23rd - Dec 7th  | :white_check_mark: | 100%  | 02:44:46.2200000
-2        | [Devvie][2]        | Dec 7th - Dec 21st  | :cross_mark: |   0%  | 
+2        | [Devvie][2]        | Dec 7th - Dec 21st  | ❌ |   0%  | 
 3        | [Snowcode][3]      | Dec 21st - Jan 4th  | :white_check_mark: |  86%  | 00:16:19.5440000
 4        | [Attack Cleanup][4]| Jan 4th - Jan 18th  | :white_check_mark: |  40%  | 00:31:39.3140000
 5        | [Fraud Alert][5]   | Jan 18th - Feb 1st  | :white_check_mark: |  80%  | 01:30:13.7770000
