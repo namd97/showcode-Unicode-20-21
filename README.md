@@ -16,7 +16,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 7        | [Crack the Code][7]| Feb 15th - Mar 1st  | :white_check_mark: | 100%  | 00:16:48.2320000
 8        | [Alaric's Treasure][8]	| Mar 1st - Mar 15th  | :white_check_mark: | 100%  | 01:07:27.3770000
 9        | [The Heist][9]     		| Mar 15th - Mar 29th | :white_check_mark: | 100%  | 00:49:32.4630000
-10       | TBC                		| Mar 29th - Apr 12th |                    |       | 
+10       | [Galatea][10]       		| Mar 29th - Apr 12th | :white_check_mark: | 100%  | 00:17:45.1150000
 11       | TBC                		| Apr 12th - Apr 26th |                    |       | 
 12       | TBC                		| Apr 26th - May 10th |                    |       | 
 13       | TBC                		| May 10th - May 24th |                    |       | 
@@ -48,12 +48,13 @@ The team with the highest points (taken from the top 10 individual scores) will 
 The top 10 coders from each of the 5 Universities in each league will battle it out in the Unicode 20/21 Grand Finale to claim top spot.
 Don't worry, you can still qualify for the individual finale if your team doesn't make it.
 
-[1]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge1/Cipher.java
-[2]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge2/Solution.java
-[3]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge3/Solution.java
-[4]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge4/AttackCleanup.java
-[5]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge5/PairValidator.java
-[6]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge6/Solution.java
-[7]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge7/Solution.java
-[8]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge8/Solution.java
-[9]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge9/Solution.java
+[1]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge01/Cipher.java
+[2]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge02/Solution.java
+[3]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge03/Solution.java
+[4]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge04/AttackCleanup.java
+[5]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge05/PairValidator.java
+[6]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge06/Solution.java
+[7]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge07/Solution.java
+[8]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge08/Solution.java
+[9]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge09/Solution.java
+[10]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge10/Solution.java
