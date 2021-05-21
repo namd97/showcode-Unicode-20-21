@@ -17,9 +17,9 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 8        | [Alaric's Treasure][8]	| Mar 1st - Mar 15th  | :white_check_mark: | 100%  | 01:07:27.3770000
 9        | [The Heist][9]     		| Mar 15th - Mar 29th | :white_check_mark: | 100%  | 00:49:32.4630000
 10       | [Galatea][10]       		| Mar 29th - Apr 12th | :white_check_mark: | 100%  | 00:17:45.1150000
-11       | TBC                		| Apr 12th - Apr 26th |                    |       | 
-12       | TBC                		| Apr 26th - May 10th |                    |       | 
-13       | TBC                		| May 10th - May 24th |                    |       | 
+11       | [The Archives][11]  		| Apr 12th - Apr 26th | :white_check_mark: | 100%  | 00:46:27.8400000
+12       | [The Event][12]     		| Apr 26th - May 10th | :white_check_mark: | 78%   | 00:20:07.8110000
+13       | [Chain Code][13]    		| May 10th - May 24th | :white_check_mark: | 100%  | 00:53:14.0470000
 
 
 
@@ -58,3 +58,6 @@ Don't worry, you can still qualify for the individual finale if your team doesn'
 [8]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge08/Solution.java
 [9]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge09/Solution.java
 [10]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge10/Solution.java
+[11]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge11/Solution.java
+[12]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge12/Solution.java
+[13]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge13/Solution.java
