@@ -3,7 +3,7 @@
  */
 package unicode2021.namd97.challenge13;
 
-// scored 
+// scored 100%
 
 /**
  * @author Duncan Nam
