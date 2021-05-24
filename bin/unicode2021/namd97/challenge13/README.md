@@ -1,4 +1,7 @@
+## Solution Notes:
+Solution.java scores 100%
 
+## Challenge Details
 
 Since the Party took control, the country has been on lockdown. Every "citizen" has been given a Chain Code - A scrambled string of letters, punctuation and spaces that represents them in the new Party system.
 
@@ -24,3 +27,6 @@ If you do this for them, they claim you will save many lives. You have two weeks
 Given what they have told you, you had better act fast.
 
 After all, you have no Chain Code either.
+
+## Test Cases
+
