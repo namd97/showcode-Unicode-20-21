@@ -20,6 +20,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 11       | [The Archives][11]  		| Apr 12th - Apr 26th | :white_check_mark: | 100%  | 00:46:27.8400000
 12       | [The Event][12]     		| Apr 26th - May 10th | :white_check_mark: | 78%   | 00:20:07.8110000
 13       | [Chain Code][13]    		| May 10th - May 24th | :white_check_mark: | 100%  | 00:53:14.0470000
+Day 1    | [Administratum][14]      | Jun 14th - Jun 15th | :white_check_mark: | 100%  | 00:53:36
 
 
 
@@ -61,3 +62,4 @@ Don't worry, you can still qualify for the individual finale if your team doesn'
 [11]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge11/Solution.java
 [12]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge12/Solution.java
 [13]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge13/Solution.java
+[14]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/day1/Solution.java
