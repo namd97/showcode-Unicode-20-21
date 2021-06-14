@@ -1,6 +1,6 @@
 # UniCode-20-21
 
-Welcome to my UniCode 2020 repository. I will upload my submitted solution where possible, and an updated solution (written after the challenge closes), as well as the percentage I scored for my original solution when each challenge closes.
+Welcome to my UniCode 2020 repository. I will upload my submitted solution, where possible, and an updated solution (written after the challenge closes), as well as the percentage I scored for my original solution when each challenge closes.
 
 Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 
@@ -21,6 +21,7 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 12       | [The Event][12]     		| Apr 26th - May 10th | :white_check_mark: | 78%   | 00:20:07.8110000
 13       | [Chain Code][13]    		| May 10th - May 24th | :white_check_mark: | 100%  | 00:53:14.0470000
 Day 1    | [Administratum][14]      | Jun 14th - Jun 15th | :white_check_mark: | 100%  | 00:53:36
+Day 5    | ??                       | Jun 18th - Jun 19th |  |   | 
 
 
 
