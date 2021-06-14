@@ -1,6 +1,6 @@
 # UniCode-20-21
 
-Welcome to my UniCode 2020 repository. I will upload my submitted solution, where possible, and an updated solution (written after the challenge closes), as well as the percentage I scored for my original solution when each challenge closes.
+Welcome to my UniCode 2020 repository. I will upload my submitted solution, where possible, or an updated solution (written after the challenge closes). In this file, I will also track the percentage I scored for my original solution and the time it took to complete.
 
 Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 
