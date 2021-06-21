@@ -21,7 +21,10 @@ Find out more about UniCode 2020 [here](https://www.showcode.io/unicode/).
 12       | [The Event][12]     		| Apr 26th - May 10th | :white_check_mark: | 78%   | 00:20:07.8110000
 13       | [Chain Code][13]    		| May 10th - May 24th | :white_check_mark: | 100%  | 00:53:14.0470000
 Day 1    | [Administratum][14]      | Jun 14th - Jun 15th | :white_check_mark: | 100%  | 00:53:36
-Day 5    | ??                       | Jun 18th - Jun 19th |  |   | 
+Day 5    | [Cog Sequence][18]       | Jun 21st - Jun 22nd | :white_check_mark: | 82%   | 00:24:04
+Finals 1 | [Genesis][15]            | Jun 19th (11:00 UTC - 13:00 UTC) | :white_check_mark: | 79% | 00:35:15
+Finals 2 | [Judgement][16]          | Jun 19th (13:00 UTC - 15:00 UTC) | :white_check_mark: | 60% | 00:06:21
+Finals 3 | [Salvation][17]          | Jun 19th (15:00 UTC - 17:00 UTC) | :white_check_mark: | 63% | 01:37:06
 
 
 
@@ -64,3 +67,7 @@ Don't worry, you can still qualify for the individual finale if your team doesn'
 [12]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge12/Solution.java
 [13]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/challenge13/Solution.java
 [14]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/day1/Solution.java
+[15]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/finals1/Solution.java
+[16]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/finals2/Solution.java
+[17]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/finals3/Solution.java
+[18]:https://github.com/namd97/showcode-Unicode-20-21/tree/main/src/unicode2021/namd97/day5/Solution.java
